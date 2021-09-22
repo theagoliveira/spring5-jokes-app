@@ -1,4 +1,4 @@
-# Spring Framework —
+# Spring Framework — Jokes Application
 
 Project from the online course [**Spring Framework 5: Beginner to Guru**](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/) by John Thompson — Section 4.
 
